@@ -24,18 +24,42 @@ Análisis cuantitativo de datos sobre quejas en productos laminados de la pyme L
 
 # 📷Visualizaciones
 
-## Actividad productiva Concordia
+## Portada
 
-![alt text](/images/3.png)
+![alt text](/images/1.PNG)
 
-## Análisis FODA
+## General
 
-![alt text](/images/4.png)
+![alt text](/images/2.PNG)
 
-## Método de "PONDERACIÓN DE FACTORES"
+## Resumen quejas 
 
-![alt text](/images/18.png)
+![alt text](/images/3.PNG)
 
-## Mejoras y cambios
+## Resumen quejas por edades 1
 
-![alt text](/images/35.png)
+![alt text](/images/4.PNG)
+
+## Resumen quejas por edades 2
+
+![alt text](/images/5.PNG)
+
+## Estadística descriptiva aplicada a los LAMINADOS
+
+![alt text](/images/6.PNG)
+
+## Estadística descriptiva aplicada a los LAMINADOS
+
+![alt text](/images/7.PNG)
+
+## Estadística descriptiva aplicada a los LAMINADOS
+
+![alt text](/images/8.PNG)
+
+## Estadística descriptiva aplicada a los LAMINADOS
+
+![alt text](/images/9.PNG)
+
+## Estadística descriptiva aplicada a los LAMINADOS
+
+![alt text](/images/10.PNG)
